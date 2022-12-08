@@ -18,7 +18,9 @@ fun main(args: Array<String>) {
 //    day5p1()
 //    day5p2()
 //    day6p1()
-    day6p2()
+//    day6p2()
+//    day7p1()
+    day7p2()
 }
 
 fun getResourceAsText(path: String): String? = object {}.javaClass.getResource(path)?.readText()
